@@ -4,13 +4,13 @@ class Test1
 {
     public $test1;
 }
-
+$name="ahmed";
 // abstract class MakeDevice
 //{
 //    abstract public function testperformance();
 //    abstract public function varifyowner();
 //    abstract public function saywelcome($name);
-//
+
 //}
 //class iphone extends MakeDevice
 //{
